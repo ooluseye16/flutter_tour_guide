@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_spotlight_tour/src/tour_step.dart';
-import 'package:flutter_spotlight_tour/src/tour_theme.dart';
+import 'package:flutter_tour_guide/src/tour_step.dart';
+import 'package:flutter_tour_guide/src/tour_theme.dart';
 
 class TourOverlay extends StatefulWidget {
   final List<TourStep> steps;

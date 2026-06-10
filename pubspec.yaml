@@ -1,9 +1,9 @@
-name: flutter_spotlight_tour
+name: flutter_tour_guide
 description: A lightweight, themeable Flutter tour guide with spotlight cutouts, auto-scroll, tab/page navigation, and per-screen persistence.
 version: 0.1.0
-homepage: https://github.com/oluseyeobitola/flutter_spotlight_tour
-repository: https://github.com/oluseyeobitola/flutter_spotlight_tour
-issue_tracker: https://github.com/oluseyeobitola/flutter_spotlight_tour/issues
+homepage: https://github.com/oluseyeobitola/flutter_tour_guide
+repository: https://github.com/oluseyeobitola/flutter_tour_guide
+issue_tracker: https://github.com/oluseyeobitola/flutter_tour_guide/issues
 
 screenshots:
   - description: 'Step 1 — spotlight on the FAB with progress dots and Next button'

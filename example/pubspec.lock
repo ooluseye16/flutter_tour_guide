@@ -38,7 +38,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_spotlight_tour:
+  flutter_tour_guide:
     dependency: "direct main"
     description:
       path: ".."

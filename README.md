@@ -1,4 +1,4 @@
-# flutter_spotlight_tour
+# flutter_tour_guide
 
 A lightweight, themeable Flutter onboarding tour with spotlight cutouts, animated tooltips, auto-scroll, tab/page navigation support, and per-screen persistence.
 
@@ -28,7 +28,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_spotlight_tour: ^0.1.0
+  flutter_tour_guide: ^0.1.0
 ```
 
 Then run:
@@ -44,7 +44,7 @@ flutter pub get
 ### Basic tour
 
 ```dart
-import 'package:flutter_spotlight_tour/flutter_spotlight_tour.dart';
+import 'package:flutter_tour_guide/flutter_tour_guide.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -235,5 +235,5 @@ await Tour.resetAll();
 
 ## Additional information
 
-- **Issues & feature requests:** [github.com/ooluseye16/flutter_spotlight_tour/issues](https://github.com/ooluseye16/flutter_spotlight_tour/issues)
+- **Issues & feature requests:** [github.com/oluseyeobitola/flutter_tour_guide/issues](https://github.com/oluseyeobitola/flutter_tour_guide/issues)
 - **Contributions** are welcome — please open an issue first to discuss significant changes.

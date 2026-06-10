@@ -1,5 +1,5 @@
-name: flutter_spotlight_tour_example
-description: Example app for flutter_spotlight_tour.
+name: flutter_tour_guide_example
+description: Example app for flutter_tour_guide.
 publish_to: none
 version: 1.0.0
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_spotlight_tour:
+  flutter_tour_guide:
     path: ../
 
 flutter:

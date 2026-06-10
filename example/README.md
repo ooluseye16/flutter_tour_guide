@@ -1,4 +1,4 @@
-# flutter_spotlight_tour_example
+# flutter_tour_guide_example
 
 A new Flutter project.
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_spotlight_tour/flutter_spotlight_tour.dart';
+import 'package:flutter_tour_guide/flutter_tour_guide.dart';
 
 void main() => runApp(const ExampleApp());
 
