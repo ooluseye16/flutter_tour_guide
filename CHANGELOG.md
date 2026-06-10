@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Fix README screenshot URLs to use absolute GitHub raw paths so images render on pub.dev.
+
 ## 0.1.0
 
 Initial public release.

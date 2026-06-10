@@ -6,7 +6,7 @@ A lightweight, themeable Flutter onboarding tour with spotlight cutouts, animate
 
 | Step 1 — FAB | Step 2 — Search | Step 3 — Tabs | Step 4 — Settings |
 |:---:|:---:|:---:|:---:|
-| ![Step 1](screenshots/step1.png) | ![Step 2](screenshots/step2.png) | ![Step 3](screenshots/step3.png) | ![Step 4](screenshots/step4.png) |
+| ![Step 1](https://raw.githubusercontent.com/ooluseye16/flutter_tour_guide/main/screenshots/step1.png) | ![Step 2](https://raw.githubusercontent.com/ooluseye16/flutter_tour_guide/main/screenshots/step2.png) | ![Step 3](https://raw.githubusercontent.com/ooluseye16/flutter_tour_guide/main/screenshots/step3.png) | ![Step 4](https://raw.githubusercontent.com/ooluseye16/flutter_tour_guide/main/screenshots/step4.png) |
 
 ---
 
@@ -235,5 +235,5 @@ await Tour.resetAll();
 
 ## Additional information
 
-- **Issues & feature requests:** [github.com/oluseyeobitola/flutter_tour_guide/issues](https://github.com/oluseyeobitola/flutter_tour_guide/issues)
+- **Issues & feature requests:** [github.com/ooluseye16/flutter_tour_guide/issues](https://github.com/ooluseye16/flutter_tour_guide/issues)
 - **Contributions** are welcome — please open an issue first to discuss significant changes.
