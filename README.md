@@ -2,6 +2,12 @@
 
 A lightweight, themeable Flutter onboarding tour with spotlight cutouts, animated tooltips, auto-scroll, tab/page navigation support, and per-screen persistence.
 
+## Screenshots
+
+| Step 1 — FAB | Step 2 — Search | Step 3 — Tabs | Step 4 — Settings |
+|:---:|:---:|:---:|:---:|
+| ![Step 1](screenshots/step1.png) | ![Step 2](screenshots/step2.png) | ![Step 3](screenshots/step3.png) | ![Step 4](screenshots/step4.png) |
+
 ---
 
 ## Features

@@ -5,6 +5,16 @@ homepage: https://github.com/oluseyeobitola/flutter_spotlight_tour
 repository: https://github.com/oluseyeobitola/flutter_spotlight_tour
 issue_tracker: https://github.com/oluseyeobitola/flutter_spotlight_tour/issues
 
+screenshots:
+  - description: 'Step 1 — spotlight on the FAB with progress dots and Next button'
+    path: screenshots/step1.png
+  - description: 'Step 2 — spotlight on the search bar, tooltip positioned below'
+    path: screenshots/step2.png
+  - description: 'Step 3 — onBefore switches to the Favorites tab before spotlighting the tab bar'
+    path: screenshots/step3.png
+  - description: 'Step 4 — spotlight on an AppBar icon, Done button on the last step'
+    path: screenshots/step4.png
+
 environment:
   sdk: ^3.12.0
   flutter: ">=3.10.0"
